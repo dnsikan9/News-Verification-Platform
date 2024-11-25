@@ -9,3 +9,5 @@ I
 contracts/reputation.clar,1/b/1b2d9375e0af848678aba3edffa09d6ef4e1fb40
 H
 tests/reputation.test.ts,9/1/913d34502bb88f0309866e5600405f432c0274a0
+Q
+!contracts/news-verification_.clar,0/5/05c9279ef8d463c0e99bbb5d999b2003bba3e5ff
