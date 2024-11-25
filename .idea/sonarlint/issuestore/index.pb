@@ -11,3 +11,5 @@ H
 tests/reputation.test.ts,9/1/913d34502bb88f0309866e5600405f432c0274a0
 Q
 !contracts/news-verification_.clar,0/5/05c9279ef8d463c0e99bbb5d999b2003bba3e5ff
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2

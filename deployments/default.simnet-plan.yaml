@@ -50,18 +50,13 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: staking
-            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/staking.clar
-            clarity-version: 2
-        - emulated-contract-publish:
-            contract-name: news-verification_
-            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/news-verification_.clar
-            clarity-version: 2
-        - emulated-contract-publish:
             contract-name: reputation
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/reputation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: staking
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/staking.clar
             clarity-version: 2
       epoch: "2.5"
